@@ -23,7 +23,14 @@ Dieses Projekt dient **nur zu Lernzwecken** und wird **nicht privat oder kommerz
 
 ---
 
-## 🛠️ Installation
+## 📸 Beispiel
+
+
+<img width="1188" height="903" alt="Screenshot 2026-01-18 152331" src="https://github.com/user-attachments/assets/44f11bd4-3e69-47ac-93b2-de12703b2134" />
+
+---
+
+
 
 ### 1️⃣ Python & Libraries
 
